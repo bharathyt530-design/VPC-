@@ -84,7 +84,7 @@ While IAM is essential for managing access control, it does have limitations:
 •	Complex policies can lead to unintended access if not configured carefully.
 •	Requires continuous auditing and updates as roles and permissions evolve.
 •	Proper training and understanding of IAM policies are critical for avoiding misconfigurations.
-# RESULT
+# OUTPUT
 <img width="1907" height="956" alt="Screenshot 2026-08-17 092524" src="https://github.com/user-attachments/assets/3ba9d500-833f-4e7c-8087-692fb5974ac3" />
 
 <img width="1907" height="899" alt="Screenshot 2026-08-17 093205" src="https://github.com/user-attachments/assets/fb890e6b-cd6c-46a8-8c69-71eb2cf1a161" />
